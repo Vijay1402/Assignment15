@@ -1,0 +1,7 @@
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\bin\Debug\Assignment15.exe.config
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\bin\Debug\Assignment15.exe
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\bin\Debug\Assignment15.pdb
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\obj\Debug\Assignment15.csproj.AssemblyReference.cache
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\obj\Debug\Assignment15.csproj.CoreCompileInputs.cache
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\obj\Debug\Assignment15.exe
+G:\SimpliLearn\Phase 1\Day 10\Assignment15\Assignment15\obj\Debug\Assignment15.pdb
